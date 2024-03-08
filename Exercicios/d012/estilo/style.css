@@ -70,6 +70,7 @@ section.imagem > p{
     border-radius: 10px;
     padding: 10px;
     text-shadow: 1px 1px black;
+    font-size: 3vw;
 }
 
 section#img001{
